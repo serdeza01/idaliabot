@@ -1,0 +1,21 @@
+{
+  "client": {
+    "prefix": "," 
+  },
+  
+  "clientId": "1013134877362757632",
+  "token": "MTAxMzEzNDg3NzM2Mjc1NzYzMg.GW_MBK.DQ9GTLcqTo4Y7xj3gFPaEpUoejx_Wik7D9-jRg",
+
+  "parentOpened": "1019632211626049546",
+  "Category1": "Aide / Question / Plainte",
+  "Category2": "Report bug",
+  "Category3": "Demande de unmute / unban",
+  "Category4": "Bug de connexion",
+  "Category5": "Remboursement IG",
+  "Category6": "Remboursement PB",
+
+  "roleSupport": "1013477013044080710",
+  
+  "logsTicket": "1013477653468155914",
+  "ticketChannel": "1013477451264970762"
+}
